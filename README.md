@@ -1,48 +1,101 @@
-# Hi there, I'm Mukesh! 👋
+<h1 align="center">Hi 👋, I'm Mukesh Kumar K P</h1>
+<h3 align="center">Full Stack Java Developer | Web Developer</h3>
 
-I am a passionate developer interested in **Java**, **Spring Boot**, and **Cloud Computing**.
-
-## 🚀 About Me
-- 🔭 I’m currently working on a **Conversation AI Platform**.
-- 🌱 I’m currently learning **DevOps** and **Azure Security**.
-- 👯 I’m looking to collaborate on **Java & Cloud projects**.
-- 💬 Ask me about **Java, Python, SQL, and Data Structures**.
-
----
-
-## 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> 
+<p align="center">
+  <a href="mailto:kandhimallamukesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/> 
+  <a href="https://www.linkedin.com/in/mukesh-k-a2b695306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  <a href="https://github.com/mukesh4215">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 📂 Featured Projects
+### 👨‍💻 About Me
+I'm a passionate developer building scalable web applications. I enjoy solving complex problems and learning new technologies.
 
-### 🤖 [Conversation AI Platform](https://github.com/mukesh4215/conversation-ai-platform)
-*A Spring Boot based AI platform featuring user analytics.*
-* **Tech Stack:** Java, Spring Boot, AI integration.
-* **Status:** In Progress.
-
-### 📚 [Project E-Learning](https://github.com/mukesh4215/projectE-learning)
-*An educational platform for online learning.*
-* **Tech Stack:** HTML, Java.
+* 🔭 Currently working on **Project E-Learning** and **Conversation AI**
+* 🌱 Learning **DevOps** and **Advanced Security**
+* 💬 Ask me about **Java, PL/SQL, and Spring Boot**
 
 ---
 
-## 📊 GitHub Stats
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh4215&show_icons=true&theme=radical)
+### 🛠 Technical Skills
+
+**💻 Programming & Web**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+**🔧 Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
+
+**☁️ Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+**💾 Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile_Methodology-E0E0E0?style=flat-square&logoColor=black" />
+</p>
+
+---
+
+### 📂 Projects
+
+**🚀 [Conversation AI Platform](https://github.com/mukesh4215/conversation-ai-platform)**
+* **Tech:** Java, Spring Boot, AI Integration
+* Developing an intelligent system for conversation analysis and user metrics.
+
+**📚 [Project E-Learning](https://github.com/mukesh4215/projectE-learning)**
+* **Tech:** HTML, Java, Web Development
+* An educational platform designed for online course management.
+
+**🔌 [Rest API Service](https://github.com/mukesh4215/rest-api)**
+* **Tech:** Java, Spring Boot, RESTful Services
+* Scalable REST API backend with secure endpoints and database integration.
+
+**🎨 [Tailwind CSS Projects](https://github.com/mukesh4215/tailwind-css)**
+* **Tech:** Tailwind CSS, Frontend
+* A collection of responsive UI designs and components.
+
+---
+
+### 📜 Certifications
+- [x] Java Full Stack Development (J Spiders)
+
+---
+
+### 📫 Connect With Me
+* 📧 **Email:** [kandhimallamukesh@gmail.com](mailto:kandhimallamukesh@gmail.com)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/mukesh-k-a2b695306/](https://www.linkedin.com/in/mukesh-k-a2b695306/)
+* 🐙 **GitHub:** [github.com/mukesh4215](https://github.com/mukesh4215)
