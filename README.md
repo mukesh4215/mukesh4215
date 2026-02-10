@@ -19,7 +19,7 @@
 I'm a passionate developer building scalable web applications. I enjoy solving complex problems and learning new technologies.
 
 * 🔭 Currently working on **Project E-Learning** and **Conversation AI**
-* 🌱 Learning **DevOps** and **Advanced Security**
+* 🌱 Learning **DevOps** and **SRE Engineer**
 * 💬 Ask me about **Java, PL/SQL, and Spring Boot**
 
 ---
